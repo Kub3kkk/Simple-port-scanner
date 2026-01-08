@@ -1,6 +1,4 @@
 
-
-
 WELL_KNOW_PORTS = {
     0: "HOPOPT",
     1: "ICMP",
